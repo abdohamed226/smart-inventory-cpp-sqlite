@@ -1,0 +1,7 @@
+build/
+*.db-wal
+*.db-shm
+*.db-journal
+database/*.db
+
+database/*.db
